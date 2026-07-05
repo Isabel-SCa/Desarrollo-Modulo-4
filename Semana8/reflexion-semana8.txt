@@ -1,0 +1,7 @@
+La seguridad digital es el núcleo de la confianza en cualquier plataforma tecnológica comunitaria.
+En contextos de participación ciudadana, los ciudadanos exponen datos sensibles y opiniones
+políticas que requieren protección. Si una plataforma no implementa protocolos de acceso rigurosos,
+queda expuesta a la manipulación de datos o ataques de denegación de servicio, lo cual invalida el
+propósito del sistema. Garantizar la integridad y la confidencialidad de la información asegura que
+la participación sea democrática, real y libre de coacción, permitiendo que la herramienta tecnológica
+cumpla su rol social sin convertirse en un vector de vulnerabilidad para el usuario.

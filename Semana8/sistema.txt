@@ -1,0 +1,5 @@
+uname -a: Muestra toda la información del sistema operativo, incluyendo
+el nombre del kernel, el nombre del equipo (hostname), la versión de lanzamiento
+y la arquitectura del procesador.
+
+whoami: Imprime el nombre del usuario que está ejecutando la sesión actual en la terminal.

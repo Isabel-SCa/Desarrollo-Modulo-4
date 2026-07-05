@@ -1,0 +1,9 @@
+No exponer datos personales (Nombres reales, direcciones) en áreas públicas del foro.
+
+Proteger credenciales mediante el cifrado de contraseñas en la base de datos.
+
+Usar conexiones seguras implementando certificados HTTPS/SSL.
+
+Registrar accesos (Logs) para rastrear direcciones IP en caso de ataques.
+
+Limitar acceso a información sensible utilizando roles de usuario (Administrador, Ciudadano, etc).

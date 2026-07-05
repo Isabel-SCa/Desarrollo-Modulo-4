@@ -1,0 +1,3 @@
+No dejar credenciales expuestas
+Mantener software actualizado
+Cambiar las contraseñas después de un periodo de tiempo
