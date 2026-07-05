@@ -1,0 +1,10 @@
+La estabilidad y seguridad en servidores son fundamentales porque garantizan la
+disponibilidad de herramientas que suplen necesidades sociales críticas. En comunidades
+dinámicas donde la tecnología sirve para cerrar brechas de comunicación
+con las entidades competentes, un servidor inestable genera desconfianza y desalienta la participación
+ciudadana. Además, la seguridad técnica asegura que la información sensible aportada por los usuarios
+no quede expuesta a vulnerabilidades externas, protegiendo su privacidad. Un entorno robusto a nivel de
+backend permite que las aplicaciones web cumplan su propósito de manera continua, consolidando a la
+plataforma como un recurso transparente, confiable y verdaderamente útil para el desarrollo colectivo
+del entorno urbano.
+
